@@ -11,5 +11,5 @@ public class TipeDataString {
         //primitive
         int tipeDataInteger = 10;
     }
-    }
+
 }
